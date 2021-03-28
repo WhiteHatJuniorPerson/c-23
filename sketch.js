@@ -71,8 +71,8 @@ function draw() {
   rectMode(CENTER);
   background(0);
  
-  packageSprite.x= packageBody.position.x 
-  packageSprite.y= packageBody.position.y 
+  Package.x= packageBody.position.x 
+  Package.y= packageBody.position.y 
 
   
   drawSprites();
